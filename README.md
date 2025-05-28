@@ -23,4 +23,4 @@ B.E. in Information Technology | CGPA: 7.46
 Actively building real-world Python projects and improving my skills every day.
 
 ## 📬 Let's Connect
-[LinkedIn](www.linkedin.com/in/sanket-jadhav-901057271)
+[LinkedIn](https://www.linkedin.com/in/sanket-jadhav-901057271/)
